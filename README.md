@@ -1,4 +1,4 @@
-Self-Bot
+Self-Bot (RSMBOT)(TEAM)
 ============
 
 A Telegram Bot based on [DBTeam bot](https://github.com/Josepdal/DBTeam).
@@ -13,8 +13,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # After those dependencies, lets install the bot
 cd $HOME #Do not write this if you are using c9 or not root accounts
-git clone https://github.com/BeatBotTeam/Self-Bot.git
-cd Self-Bot
+git clone https://github.com/sorblack-x/bot_me.git
+cd bot_me
 ./launch.sh install
 ./launch.sh # Will ask you for a phone number & confirmation code.
 ```
@@ -23,17 +23,16 @@ Then, you have to install a bot :
 #bot install
 ```
 
-BeatBot Team
+RSMBOT (TEAM)
 -----------------
 
-[Amirho3inf](http://telegram.me/amirho3inf)<br>
-[NariMan Master](http://telegram.me/nawr_i_man)<br>
-[YellowHat](http://telegram.me/yellowhat)<br>
-[FastReaCtor](http://telegram.me/fastreactor)<br>
-[ThisIsAmirh](http://telegram.me/thisisamirh)<br>
-[Mahdi](http://telegram.me/rm_ideactive)<br>
+[sorblack](http://telegram.me/sorblack)<br>
+[sorbalck](http://telegram.me/sorbalck)<br>
+[mohamad](http://telegram.me/mohammad20162015)<br>
+[VIGO](http://telegram.me/ThisIsMEHRSHAD)<br>
+[rsmbot](http://telegram.me/Telersm)<br>
 
-BeatBot Team Channel
+[RSMBOT Channel](https://telegram.me/rsm_team)
 -----------------
 
-[BeatBot Team](http://telegram.me/beatbot_team)
+[RSMBOT](http://telegram.me/rsm_team_bot)
